@@ -9,6 +9,8 @@ public class Turismo extends Coche {
 		this.descripcion=descripcion;
 		//this.nPlazas=nPlazas;
 	}
+
+	//Esto es un cambio realizado por Eduardo
 	
 	//metodo info
 	@Override
